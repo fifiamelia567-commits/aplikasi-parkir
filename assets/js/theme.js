@@ -1,7 +1,26 @@
 (() => {
     const root = document.documentElement;
     const storageKey = 'aplikasi-parkir-theme';
-    const savedTheme = localStorage.getItem(storageKey);
+
+    // localStorage bisa tidak tersedia (mode privat / cookie dinonaktifkan)
+    const safeStorage = {
+        get() {
+            try {
+                return localStorage.getItem(storageKey);
+            } catch (e) {
+                return null;
+            }
+        },
+        set(value) {
+            try {
+                localStorage.setItem(storageKey, value);
+            } catch (e) {
+                // Abaikan: tema tetap berlaku untuk sesi ini
+            }
+        }
+    };
+
+    const savedTheme = safeStorage.get();
 
     if (savedTheme === 'dark') {
         root.dataset.theme = 'dark';
@@ -30,7 +49,7 @@
                 delete root.dataset.theme;
             }
 
-            localStorage.setItem(storageKey, isDark ? 'dark' : 'light');
+            safeStorage.set(isDark ? 'dark' : 'light');
             updateToggle();
         });
     });

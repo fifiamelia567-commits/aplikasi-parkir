@@ -109,9 +109,9 @@ foreach ($areaSlots as $areaSlot) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login | Aplikasi Parkir</title>
+    <title>Login | ParkirKu</title>
     <script src="../assets/js/theme.js"></script>
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css?v=20261021-9">
 </head>
 <body class="login-page">
 
@@ -122,7 +122,7 @@ foreach ($areaSlots as $areaSlot) {
                 <path d="M7 27V5h10a7 7 0 0 1 0 14H7" />
             </svg>
         </div>
-        <div class="hero-tag">INFORMASI PARKIR</div>
+        <div class="hero-tag">PARKIRKU · INFORMASI PARKIR</div>
         <h1>Tempat parkir tersedia</h1>
         <p class="parking-availability-note">
             Sisa kapasitas berdasarkan area parkir yang tercatat saat ini.
@@ -188,7 +188,7 @@ foreach ($areaSlots as $areaSlot) {
     <section class="login-content">
         <button class="theme-toggle theme-toggle-login" type="button" aria-pressed="false">Mode malam</button>
         <div class="login-form">
-            <div class="login-mark">P</div>
+            <div class="login-mark">PK</div>
 
             <div class="login-eyebrow">SELAMAT DATANG KEMBALI</div>
             <h2>Masuk ke akun Anda</h2>

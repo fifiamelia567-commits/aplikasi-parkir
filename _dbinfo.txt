@@ -1,0 +1,15 @@
+DB: db_parkir
+TABLE: 
+TABLE: 
+TABLE: 
+TABLE: 
+TABLE: 
+TABLE: 
+USER: 1 | Budi Santoso | admin1 | admin | 1
+USER: 2 | Siti Aminah | petugas1 | petugas | 1
+USER: 3 | Pak Hendra | owner1 | owner | 1
+Transaksi: 8
+Tarif: 
+  motor = 2000
+  mobil = 5000
+  lainnya = 10000

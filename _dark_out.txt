@@ -1,0 +1,11 @@
+﻿theme-toggle exists: YES
+after toggle data-theme=dark bodyBg=rgb(23, 16, 19)
+dark topbar=linear-gradient(115deg, rgb(51, 23, 30), rgb(74, 33, 41) 45%
+dark /admin/dashboard.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/users.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/tarif.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/area.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/kendaraan.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/log.php theme=dark contentBg=rgba(0, 0, 0, 0)
+dark /admin/backup.php theme=dark contentBg=rgba(0, 0, 0, 0)
+struk links: []

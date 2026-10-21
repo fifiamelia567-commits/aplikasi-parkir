@@ -1,0 +1,94 @@
+﻿=== TEXT CONTRAST BELOW 3.0 ===
+admin/admin/dashboard.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/dashboard.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/dashboard.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/dashboard.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/dashboard.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/dashboard.php :: A.active "Dashboard" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/users.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/users.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/users.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/users.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/users.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/users.php :: A.active "Manajemen User" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/tarif.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/tarif.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/tarif.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/tarif.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/tarif.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/tarif.php :: A.active "Tarif Parkir" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/area.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/area.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/area.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/area.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/area.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/area.php :: A.active "Area Parkir" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/kendaraan.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/kendaraan.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/kendaraan.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/kendaraan.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/kendaraan.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/kendaraan.php :: A.active "Data Kendaraan" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/log.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/log.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/log.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/log.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/log.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/log.php :: A.active "Log Aktivitas" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/backup.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/backup.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+admin/admin/backup.php :: SPAN. "Budi Santoso (Admin)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+admin/admin/backup.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/backup.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+admin/admin/backup.php :: A.active "Backup & Restore" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+admin/admin/backup.php :: A.btn "Unduh Backup SQL" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/masuk.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/masuk.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/masuk.php :: SPAN. "Siti Aminah (Petugas)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+petugas/petugas/masuk.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/masuk.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/masuk.php :: A.active "Kendaraan Masuk" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/transaksi.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/transaksi.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/transaksi.php :: SPAN. "Siti Aminah (Petugas)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+petugas/petugas/transaksi.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/transaksi.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/transaksi.php :: A.active "Transaksi Parkir" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/transaksi.php :: A.btn "+ Kendaraan Masuk" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/struk.php?id=8 :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/struk.php?id=8 :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+petugas/petugas/struk.php?id=8 :: SPAN. "Siti Aminah (Petugas)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+petugas/petugas/struk.php?id=8 :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/struk.php?id=8 :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/struk.php?id=8 :: H1. "BUKTI PARKIR" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/struk.php?id=8 :: P. "Terima kasih telah menggunak" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+petugas/petugas/struk.php?id=8 :: SPAN.receipt-label "Nomor tiket" color=rgba(255, 255, 255, 0.8) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+petugas/petugas/struk.php?id=8 :: BUTTON. "Cetak Struk" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+owner/owner/dashboard.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+owner/owner/dashboard.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+owner/owner/dashboard.php :: SPAN. "Pak Hendra (Owner)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+owner/owner/dashboard.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+owner/owner/dashboard.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+owner/owner/dashboard.php :: A.active "Dashboard Owner" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+owner/owner/dashboard.php :: A.crud-button "Lihat Laporan" color=rgb(138, 47, 62) bg=rgb(138, 47, 62) ratio=1.00
+owner/owner/laporan.php :: A.brand "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+owner/owner/laporan.php :: SPAN. "PARKIRKU" color=rgb(255, 255, 255) bg=rgb(250, 244, 236) ratio=1.09
+owner/owner/laporan.php :: SPAN. "Pak Hendra (Owner)" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.14) ratio=1.00
+owner/owner/laporan.php :: BUTTON.theme-toggle "Mode malam" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+owner/owner/laporan.php :: A. "Logout" color=rgb(255, 255, 255) bg=rgba(255, 255, 255, 0.12) ratio=1.00
+owner/owner/laporan.php :: A.active "Laporan Transaksi" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+owner/owner/laporan.php :: BUTTON. "Tampilkan" color=rgb(255, 255, 255) bg=rgb(255, 255, 255) ratio=1.00
+
+=== PAGES CHECKED ===
+admin/admin/dashboard.php -> 80 text nodes
+admin/admin/users.php -> 47 text nodes
+admin/admin/tarif.php -> 36 text nodes
+admin/admin/area.php -> 45 text nodes
+admin/admin/kendaraan.php -> 49 text nodes
+admin/admin/log.php -> 553 text nodes
+admin/admin/backup.php -> 25 text nodes
+petugas/petugas/masuk.php -> 12 text nodes
+petugas/petugas/transaksi.php -> 17 text nodes
+petugas/petugas/struk.php?id=8 -> 37 text nodes
+owner/owner/dashboard.php -> 84 text nodes
+owner/owner/laporan.php -> 87 text nodes

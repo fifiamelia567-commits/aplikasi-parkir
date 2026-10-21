@@ -82,8 +82,8 @@ require __DIR__ . '/../includes/header.php';
 <section class="receipt-page">
     <article class="receipt">
         <header class="receipt-header">
-            <div class="receipt-brand-mark" aria-hidden="true">P</div>
-            <div class="receipt-brand">APLIKASI PARKIR</div>
+            <div class="receipt-brand-mark" aria-hidden="true">PK</div>
+            <div class="receipt-brand">PARKIRKU</div>
             <h1>BUKTI PARKIR</h1>
             <p>Terima kasih telah menggunakan layanan kami</p>
         </header>

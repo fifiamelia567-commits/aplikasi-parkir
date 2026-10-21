@@ -1,0 +1,5 @@
+﻿PRINT struk: {"noPrintDisplay":"none","topbarDisplay":"none","sidebarDisplay":"none","footerDisplay":"none","receiptMaxW":"309.921px","receiptShadow":"none","headerBg":"none","bodyBg":"rgb(255, 255, 255)","receiptBg":"rgb(255, 255, 255)"}
+PDF generated
+LAPORAN: {"filters":true,"table":true,"filtersBg":"rgb(255, 255, 255)","thBg":"rgb(250, 244, 236)","ovf":0}
+PRINT laporan: {"filtersDisplay":"none","topbarDisplay":"none","thBg":"rgb(243, 233, 216)"}
+PDF laporan generated

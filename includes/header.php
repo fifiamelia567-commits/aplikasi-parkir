@@ -14,6 +14,7 @@ $menu = [
         ['Area Parkir', '/admin/area.php'],
         ['Data Kendaraan', '/admin/kendaraan.php'],
         ['Log Aktivitas', '/admin/log.php'],
+        ['Backup & Restore', '/admin/backup.php'],
     ],
     'petugas' => [
         ['Kendaraan Masuk', '/petugas/masuk.php'],
@@ -25,7 +26,7 @@ $menu = [
     ],
 ];
 
-$judul = $judul ?? $pageTitle ?? 'Aplikasi Parkir';
+$judul = $judul ?? $pageTitle ?? 'ParkirKu';
 $halaman = basename($_SERVER['SCRIPT_NAME'] ?? '');
 $kelasHalaman = [
     'dashboard.php' => 'page-dashboard',
@@ -36,6 +37,7 @@ $kelasHalaman = [
     'tarif.php' => 'page-management',
     'users.php' => 'page-management',
     'log.php' => 'page-management',
+    'backup.php' => 'page-management',
     'laporan.php' => 'page-reports',
     'struk.php' => 'page-reports',
 ][$halaman] ?? 'page-general';
@@ -45,9 +47,9 @@ $kelasHalaman = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= e($judul) ?> | Aplikasi Parkir</title>
+    <title><?= e($judul) ?> | ParkirKu</title>
     <script src="/aplikasi-parkir/assets/js/theme.js"></script>
-    <link rel="stylesheet" href="/aplikasi-parkir/assets/css/style.css?v=20261019-1">
+    <link rel="stylesheet" href="/aplikasi-parkir/assets/css/style.css?v=20261021-9">
 </head>
 <body class="<?= e($kelasHalaman) ?>">
 <header class="topbar">
@@ -57,7 +59,7 @@ $kelasHalaman = [
                 <path d="M7 27V5h10a7 7 0 0 1 0 14H7" />
             </svg>
         </span>
-        <span>APLIKASI PARKIR</span>
+        <span>PARKIRKU</span>
     </a>
 
     <div class="userbox">
@@ -74,7 +76,10 @@ $kelasHalaman = [
         </div>
 
         <?php foreach ($menu[$role] ?? [] as $item): ?>
-            <a href="/aplikasi-parkir<?= e($item[1]) ?>">
+            <a
+                href="/aplikasi-parkir<?= e($item[1]) ?>"
+                <?= basename($item[1]) === $halaman ? 'class="active" aria-current="page"' : '' ?>
+            >
                 <?= e($item[0]) ?>
             </a>
         <?php endforeach; ?>

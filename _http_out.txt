@@ -1,0 +1,13 @@
+﻿/admin/dashboard.php -> 200 len=13200
+/admin/users.php -> 200 len=4846
+/admin/tarif.php -> 200 len=4416
+/admin/area.php -> 200 len=4502
+/admin/kendaraan.php -> 200 len=10154
+/admin/log.php -> 200 len=18876
+/admin/backup.php -> 200 len=4914
+/admin/backup.php?download=1 -> 200 len=43342
+/petugas/masuk.php -> ERROR The remote server returned an error: (403) Forbidden.
+/petugas/transaksi.php -> ERROR The remote server returned an error: (403) Forbidden.
+/petugas/struk.php?id=8 -> ERROR The remote server returned an error: (403) Forbidden.
+/owner/dashboard.php -> ERROR The remote server returned an error: (403) Forbidden.
+/owner/laporan.php -> ERROR The remote server returned an error: (403) Forbidden.

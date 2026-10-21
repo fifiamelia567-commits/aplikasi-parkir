@@ -1,0 +1,13 @@
+﻿login title: Login | ParkirKu
+login h1: Tempat parkir tersedia
+theme toggle: light -> dark | label: Mode terang
+theme back: light
+after login url: http://127.0.0.1:8899/aplikasi-parkir/admin/dashboard.php
+sidebar links: Dashboard | Manajemen User | Tarif Parkir | Area Parkir | Data Kendaraan | Log Aktivitas | Backup & Restore
+active nav: Dashboard
+owner Lihat Laporan btn: {"text":"Lihat Laporan","color":"rgb(255, 255, 255)","bg":"rgb(138, 47, 62)"}
+struk ticket: {"ticket":{"color":"rgb(54, 46, 42)","bg":"rgb(251, 243, 240)"},"label":{"color":"rgb(122, 108, 99)","bg":"rgba(0, 0, 0, 0)"},"status":{"color":"rgb(4, 120, 87)","bg":"rgb(236, 253, 245)"}}
+checkbox @390px: {"w":24,"h":24}
+
+=== JS ERRORS ===
+NONE

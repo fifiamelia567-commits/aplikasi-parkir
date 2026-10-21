@@ -1,0 +1,4 @@
+﻿admin/desktop/admin/dashboard.php h1 NOT direct child of .content
+admin/mobile/admin/dashboard.php h1 NOT direct child of .content
+owner/desktop/owner/dashboard.php h1 NOT direct child of .content
+owner/mobile/owner/dashboard.php h1 NOT direct child of .content
